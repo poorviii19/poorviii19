@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **HTML,CSS,C++,Python,and DSA**
 
-- 📝 I usually post confidence/self love,self respect related stuffs on [https://youtube.com/@poorvi_shukla?si=qr7Dz4dg6KLe0qrS](https://youtube.com/@poorvi_shukla?si=qr7Dz4dg6KLe0qrS)
-
 - 💬 Ask me about **HTML,DSA**
 
 - 📫 How to reach me **poorvishukla2005@gmail.com**
