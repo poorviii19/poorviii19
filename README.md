@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@poorviii__19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@poorviii__19" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/poorvi-shukla-269573284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/poorvi-shukla-269573284" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/poorvi-shukla-269573284?" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/poorvi-shukla-269573284?" height="30" width="40" /></a>
 <a href="https://instagram.com/@poorviii__19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@poorviii__19" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://youtube.com/@poorvi_shukla?si=_z57oimz_y7hz6vt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@poorvi_shukla?si=_z57oimz_y7hz6vt" height="30" width="40" /></a>
 </p>
