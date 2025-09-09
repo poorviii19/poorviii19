@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="C:\Users\HP\Downloads\bgBanner.png" alt="Banner" />
-</p>
 
 
 <h1 align="center">Hi 👋, I'm Poorvi Shukla</h1>
