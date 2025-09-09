@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="bgBanner.png" alt="Banner" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Poorvi Shukla</h1>
 <h3 align="center">Hello ji , I am Shukla ji</h3>
 
