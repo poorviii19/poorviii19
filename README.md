@@ -51,18 +51,6 @@
 ---
 
 ### 📊 GitHub Stats  
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poorviii19" alt="poorviii19" /></a> </p>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poorviii19&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=poorviii19&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poorviii19" alt="GitHub Streak" />
-</p>
-
 ---
 
 <p align="center">
