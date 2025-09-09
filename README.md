@@ -1,14 +1,6 @@
 <p align="center">
   <img src="bgBanner.png" alt="Banner" width="1000"/>
 </p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/XML_logo.svg" alt="XML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
-</p>
 
 <h1 align="center">Hi 👋, I'm Poorvi Shukla</h1>
 <h3 align="center">Software Engineer | Web & Android App Developer</h3>
