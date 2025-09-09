@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bgBanner.png" alt="Banner" />
+  <img src="C:\Users\HP\Downloads\bgBanner.png" alt="Banner" />
 </p>
 
 
