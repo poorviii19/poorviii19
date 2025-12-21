@@ -44,13 +44,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/espress/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+    <img src="https://icons8.com/icon/2ZOaTclOqD4q/express-js" alt="Express" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org/en" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-original-wordmark.svg" alt="Node" width="40" height="40"/>
+    <img src="https://www.flaticon.com/free-icons/node" alt="Node" width="40" height="40"/>
   </a>
 </p>
 
