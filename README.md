@@ -46,7 +46,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org/en" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-original-wordmark.svg" alt="Node" width="40" height="40"/>
+    <img src="https://nodejs.org/en" alt="Node" width="40" height="40"/>
   </a>
  
 </p>
