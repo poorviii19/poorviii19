@@ -10,8 +10,8 @@
 
 ### 👩‍💻 About Me  
 - 🔭 Focused on mastering **DSA, Android App Development, and Web Development**  
-- 🌱 Currently learning **Frontend Development, C++, Python, and DSA**  
-- 💬 Ask me about **HTML, Tailwind CSS, JavaScript, Python, C++, XML, Kotlin, Firebase**  
+- 🌱 Currently learning **Fullstack web Development, Android Development, C++, and DSA**  
+- 💬 Ask me about **HTML, Tailwind CSS, JavaScript, Python, C++, XML, Kotlin, Firebase, MERN**  
 - 📫 Reach me at **poorvishukla2005@gmail.com**  
 - ⚡ Fun fact: **I’m nice… unless you touch my food 🍕😝**  
 
@@ -25,9 +25,6 @@
   <a href="https://www.linkedin.com/in/poorvi-shukla-269573284" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href= "https://www.instagram.com/poorviii__19/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
 </p>
 
 ---
@@ -40,14 +37,20 @@
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://www.flaticon.com/free-icons/javascript"  alt="JavaScript" width="40" height="40"/>
+  </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/espress/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/en" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-original-wordmark.svg" alt="Node" width="40" height="40"/>
   </a>
 </p>
 
