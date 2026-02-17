@@ -12,7 +12,7 @@
 - 🔭 Focused on mastering **DSA, Android App Development, and Web Development**  
 - 🌱 Currently learning **Fullstack web Development, Android Development, C++, and DSA**  
 - 💬 Ask me about **HTML, Tailwind CSS, JavaScript, Python, C++, XML, Kotlin, Firebase, MERN**  
-- 📫 Reach me at **poorvishukla2005@gmail.com**  
+- 📫 Reach me at **shuklapoorviswe@gmail.com**  
 - ⚡ Fun fact: **I’m nice… unless you touch my food 🍕😝**  
 
 ---
