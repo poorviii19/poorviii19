@@ -3,20 +3,20 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Poorvi Shukla</h1>
-<h3 align="center">🚀 Software Engineer | MERN Developer | Abdroid Development</h3>
+<h3 align="center">🚀 Software Engineer | MERN Developer | Android Developer</h3>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=poorviii19&label=Profile%20views&color=7aa2f7&style=flat" alt="Profile Views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=poorviii19&label=Profile%20views&color=7aa2f7&style=flat" />
 </p>
 
 ---
 
 ### 👩‍💻 About Me  
 
-- 🔥 Building **real-world scalable MERN & Android applications**  
-- 🚀 Currently focused on **DSA + Full Stack Development**  
-- 🧠 Strong interest in **problem solving & MERN Stack Development**  
-- 💬 Ask me about **React, Node.js, MongoDB, Tailwind, BootStrap, C++, XML(Android Layouts), Kotlin, FireBase**  
+- 🔥 Building **scalable MERN & Android applications**  
+- 🚀 Focused on **DSA + Full Stack Development**  
+- 🧠 Strong in **problem solving & backend logic**  
+- 💬 Ask me about **React, Node.js, MongoDB, Tailwind, BootStrap, C++, Kotlin**  
 - 📫 Reach me at **shuklapoorviswe@gmail.com**  
 - ⚡ Fun fact: *I’m nice… unless you touch my food 🍕😝*  
 
@@ -45,28 +45,78 @@
 <p align="center">
 
 <!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/>
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40"/>
+</a>
+
+<a href="https://react.dev/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40"/>
+</a>
+
+<br/><br/>
 
 <!-- Backend -->
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40"/>
+</a>
+
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="40"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40"/>
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40"/>
+</a>
+
+<br/><br/>
 
 <!-- Languages -->
-<img src="https://skillicons.dev/icons?i=cpp,java" />
+<a href="https://isocpp.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"/>
+</a>
 
-</p>
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"/>
+</a>
+
+<a href="https://kotlinlang.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="40"/>
+</a>
+
+<a href="https://firebase.google.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" height="40"/>
+</a>
+
+</p>>
 
 ---
 
-<h3 align="center">📊 GitHub Analytics</h3>
+### 📊 GitHub Analytics  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=poorviii19&theme=github-dark&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=poorviii19&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 </p>
 
-<br/>
+---
 
-<h3 align="center">📈 Contribution Insights</h3>
+### 📈 Contribution Insights  
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=poorviii19&theme=github_dark" width="32%" />
