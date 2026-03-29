@@ -26,7 +26,7 @@
 
 <p>
   <a href="https://x.com/poorviii__19" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" height="28"style="text-decoration: none;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" height="28" />
   </a>
 
   <a href="https://www.linkedin.com/in/poorvishukla19/" target="_blank" style="text-decoration: none; display: inline-block;">
