@@ -65,8 +65,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40"/>
 </a>
 
-<br/><br/>
-
 <!-- Backend -->
 <a href="https://nodejs.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40"/>
@@ -83,8 +81,6 @@
 <a href="https://www.postgresql.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40"/>
 </a>
-
-<br/><br/>
 
 <!-- Languages -->
 <a href="https://isocpp.org/" target="_blank">
