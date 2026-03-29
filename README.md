@@ -3,20 +3,20 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Poorvi Shukla</h1>
-<h3 align="center">🚀 Software Engineer | MERN Stack | Android Developer</h3>
+<h3 align="center">🚀 Software Engineer | MERN Stack /h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=poorviii19&label=Profile%20views&color=7aa2f7&style=flat" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=poorviii19&label=Profile%20views&color=7aa2f7&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ### 👩‍💻 About Me  
 
-- 🔥 Building **real-world MERN & Android applications**  
-- 🚀 Focused on **DSA + Full Stack Development**  
-- 🧠 Strong interest in **problem solving & scalable systems**  
-- 💬 Ask me about **React, Node.js, MongoDB, Tailwind, C++, Kotlin**  
+- 🔥 Building **real-world scalable MERN & Android applications**  
+- 🚀 Currently focused on **DSA + Full Stack Development**  
+- 🧠 Strong interest in **problem solving & MERN Stack Development**  
+- 💬 Ask me about **React, Node.js, MongoDB, Tailwind, BootStrap, C++**  
 - 📫 Reach me at **shuklapoorviswe@gmail.com**  
 - ⚡ Fun fact: *I’m nice… unless you touch my food 🍕😝*  
 
@@ -24,7 +24,7 @@
 
 ### 🌐 Connect with Me  
 
-<p >
+<p>
   
 <a href="https://x.com/poorviii__19" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" height="28" />
@@ -46,21 +46,34 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react" /><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" /><br/>
-<img src="https://skillicons.dev/icons?i=cpp,java,kotlin" />
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react" />
+
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
+
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=cpp,java" />
 
 </p>
 
 ---
-
-### 📊 GitHub Analytics  
 
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=poorviii19&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=poorviii19&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<br/>
+
+<h3 align="center">📈 Contribution Insights</h3>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=poorviii19&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=poorviii19&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=poorviii19&theme=tokyonight" width="32%" />
 </p>
 
 ---
