@@ -24,17 +24,17 @@
 
 ### 🌐 Connect with Me  
 
-<p class="connect-icons" align="center">
+<p align="center">
   <a href="https://x.com/poorviii__19" target="_blank">
-    <img src="X_logo.png" height="28" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" height="28" />
   </a>
 
   <a href="https://www.linkedin.com/in/poorvishukla19/" target="_blank">
-    <img src="linkedin.svg" height="28"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="28"/>
   </a>
 
   <a href="mailto:shuklapoorviswe@gmail.com">
-    <img src="gmail.png" height="28"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="28"/>
   </a>
 </p>
 
