@@ -24,7 +24,7 @@
 
 ### 🌐 Connect with Me  
 
-<p align="center">
+<p>
   <a href="https://x.com/poorviii__19" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" height="28" />
   </a>
