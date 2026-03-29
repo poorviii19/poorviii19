@@ -25,15 +25,15 @@
 ### 🌐 Connect with Me  
 
 <p>
-  <a href="https://x.com/poorviii__19" target="_blank">
+  <a href="https://x.com/poorviii__19" target="_blank" style="text-decoration: none; display: inline-block;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" height="28" />
   </a>
 
-  <a href="https://www.linkedin.com/in/poorvishukla19/" target="_blank">
+  <a href="https://www.linkedin.com/in/poorvishukla19/" target="_blank" style="text-decoration: none; display: inline-block;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="28"/>
   </a>
 
-  <a href="mailto:shuklapoorviswe@gmail.com">
+  <a href="mailto:shuklapoorviswe@gmail.com" style="text-decoration: none; display: inline-block;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="28"/>
   </a>
 </p>
@@ -44,7 +44,6 @@
 
 <p align="center">
 
-<!-- Frontend -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/>
 </a>
@@ -65,7 +64,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40"/>
 </a>
 
-<!-- Backend -->
 <a href="https://nodejs.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40"/>
 </a>
@@ -82,7 +80,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40"/>
 </a>
 
-<!-- Languages -->
 <a href="https://isocpp.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"/>
 </a>
@@ -91,15 +88,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"/>
 </a>
 
-<a href="https://kotlinlang.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="40"/>
-</a>
-
-<a href="https://firebase.google.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" height="40"/>
-</a>
-
-</p>>
+</p>
 
 ---
 
