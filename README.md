@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Poorvi Shukla</h1>
-<h3 align="center">🚀 Software Engineer | MERN Stack /h3>
+<h3 align="center">🚀 Software Engineer | MERN Developer | Abdroid Development</h3>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=poorviii19&label=Profile%20views&color=7aa2f7&style=flat" alt="Profile Views" />
@@ -16,7 +16,7 @@
 - 🔥 Building **real-world scalable MERN & Android applications**  
 - 🚀 Currently focused on **DSA + Full Stack Development**  
 - 🧠 Strong interest in **problem solving & MERN Stack Development**  
-- 💬 Ask me about **React, Node.js, MongoDB, Tailwind, BootStrap, C++**  
+- 💬 Ask me about **React, Node.js, MongoDB, Tailwind, BootStrap, C++, XML(Android Layouts), Kotlin, FireBase**  
 - 📫 Reach me at **shuklapoorviswe@gmail.com**  
 - ⚡ Fun fact: *I’m nice… unless you touch my food 🍕😝*  
 
@@ -24,20 +24,18 @@
 
 ### 🌐 Connect with Me  
 
-<p>
-  
-<a href="https://x.com/poorviii__19" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" height="28" />
-</a>
+<p class="connect-icons" align="center">
+  <a href="https://x.com/poorviii__19" target="_blank">
+    <img src="X_logo.png" height="28" />
+  </a>
 
-<a href="https://www.linkedin.com/in/poorvishukla19/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="28"/>
-</a>
+  <a href="https://www.linkedin.com/in/poorvishukla19/" target="_blank">
+    <img src="linkedin.svg" height="28"/>
+  </a>
 
-<a href="mailto:shuklapoorviswe@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="28"/>
-</a>
-
+  <a href="mailto:shuklapoorviswe@gmail.com">
+    <img src="gmail.png" height="28"/>
+  </a>
 </p>
 
 ---
@@ -62,8 +60,8 @@
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poorviii19&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=poorviii19&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poorviii19&theme=github-dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=poorviii19&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 </p>
 
 <br/>
@@ -71,9 +69,9 @@
 <h3 align="center">📈 Contribution Insights</h3>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=poorviii19&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=poorviii19&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=poorviii19&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=poorviii19&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=poorviii19&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=poorviii19&theme=github_dark" width="32%" />
 </p>
 
 ---
