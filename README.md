@@ -93,16 +93,6 @@
 ---
 
 ### 📊 GitHub Stats 
-<div align="center"> <!-- Top Languages + Stats Side by Side -->
-  
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=poorviii19&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&title_color=7aa2f7&icon_color=bb9af7" height="165" /> 
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=poorviii19&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=7aa2f7" height="165" />  -->
-
-</div>
-
-<br/>
-
 <div align="center"> <!-- Streak -->
   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=poorviii19&theme=tokyonight&hide_border=true&border_radius=10" height="180" />
