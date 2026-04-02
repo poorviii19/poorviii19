@@ -93,9 +93,22 @@
 ---
 
 ### 📊 GitHub Stats 
-<div align="center"> <!-- Streak -->
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=poorviii19&theme=tokyonight&hide_border=true&border_radius=10" height="180" />
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=poorviii19&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true"/>
+
+  <!-- Streak Stats (fixed caching issue) -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=poorviii19&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=0"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <!-- Top Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poorviii19&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
 
 </div>
 
