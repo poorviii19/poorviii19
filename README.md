@@ -16,7 +16,7 @@
 - 🔥 Building **scalable MERN & Android applications**  
 - 🚀 Focused on **DSA + Full Stack Development**  
 - 🧠 Strong in **problem solving & backend logic**  
-- 💬 Ask me about **React, Node.js, MongoDB, Tailwind, BootStrap, C++, Kotlin**  
+- 💬 Ask me about **React, Node.js, MongoDB, Tailwind, Bootstrap, C++, Kotlin**  
 - 📫 Reach me at **shuklapoorviswe@gmail.com**  
 - ⚡ Fun fact: *I’m nice… unless you touch my food 🍕😝*  
 
@@ -24,16 +24,16 @@
 
 ### 🌐 Connect with Me  
 
-<p>
-  <a href="https://x.com/poorviii__19" target="_blank" style="text-decoration: none; display: inline-block;">
+<p align="center">
+  <a href="https://x.com/poorviii__19" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" height="28" />
   </a>
-
-  <a href="https://www.linkedin.com/in/poorvishukla19/" target="_blank" style="text-decoration: none; display: inline-block;">
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/poorvishukla19/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="28"/>
   </a>
-
-  <a href="mailto:shuklapoorviswe@gmail.com" style="text-decoration: none; display: inline-block;">
+  &nbsp;&nbsp;
+  <a href="mailto:shuklapoorviswe@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="28"/>
   </a>
 </p>
@@ -92,14 +92,20 @@
 
 ---
 
-### 📊 GitHub Stats 
+### 📊 GitHub Stats  
+
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=poorviii19&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true"/>
+  <!-- Profile Summary Graph (NEW) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poorviii19&theme=tokyonight" />
 
-  <!-- Streak Stats (fixed caching issue) -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=poorviii19&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=0"/>
+  <br/><br/>
+
+  <!-- GitHub Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=poorviii19&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+
+  <!-- Streak Stats -->
+  <img height="180em" src="https://streak-stats.demolab.com?user=poorviii19&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800"/>
 
 </div>
 
@@ -108,7 +114,7 @@
 <div align="center">
 
   <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poorviii19&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poorviii19&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800"/>
 
 </div>
 
