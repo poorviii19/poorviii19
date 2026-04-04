@@ -82,7 +82,7 @@
 <div align="center">
 
 <!-- Top Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poorviii19&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poorviii19&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 
 </div>
 
