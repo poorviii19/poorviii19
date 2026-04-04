@@ -96,16 +96,16 @@
 
 <div align="center">
 
-  <!-- Profile Summary Graph (NEW) -->
+  <!-- Profile Summary (WORKING) -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poorviii19&theme=tokyonight" />
 
   <br/><br/>
 
-  <!-- GitHub Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=poorviii19&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <!-- GitHub Stats (FIXED) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=poorviii19&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-  <!-- Streak Stats -->
-  <img height="180em" src="https://streak-stats.demolab.com?user=poorviii19&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800"/>
+  <!-- Streak Stats (MOST STABLE) -->
+  <img height="180em" src="https://streak-stats.demolab.com?user=poorviii19&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -113,8 +113,10 @@
 
 <div align="center">
 
-  <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poorviii19&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800"/>
+  <!-- Top Languages (FIXED) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poorviii19&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 </div>
 
