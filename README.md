@@ -69,23 +69,11 @@
 
 <br/><br/>
 
-<!-- GitHub Stats (Optimized) -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=poorviii19&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=10"/>
-
-<!-- Streak Stats (Stable + Fast Refresh) -->
-<img height="180em" src="https://streak-stats.demolab.com?user=poorviii19&theme=tokyonight&hide_border=true&cache_seconds=10"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- Top Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poorviii19&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-
-</div>
-
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=poorviii19&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=poorviii19&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poorviii19&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 ---
 
 ### 💡 Quote I Live By  
