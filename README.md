@@ -65,10 +65,6 @@
 <div align="center">
 
 <!-- Profile Summary -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poorviii19&theme=tokyonight" />
-
-<br/><br/>
-
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=poorviii19&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="180em" src="https://streak-stats.demolab.com?user=poorviii19&theme=tokyonight&hide_border=true"/>
