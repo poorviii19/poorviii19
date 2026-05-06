@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="bgBanner.png" alt="Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Poorvi Shukla</h1>
 <h3 align="center">🚀 Software Engineer | MERN Developer | Android Developer</h3>
 
