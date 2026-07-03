@@ -5,21 +5,19 @@
   <img src="https://komarev.com/ghpvc/?username=poorviii19&label=Profile%20views&color=7aa2f7&style=flat" />
 </p>
 
----
+<br>
 
-### 👩‍💻 About Me  
+### 👩‍💻 About Me
+- 🔥 Building **scalable MERN & Android applications**
+- 🚀 Focused on **DSA + Full Stack Development**
+- 🧠 Strong in **problem solving & backend logic**
+- 💬 Ask me about **React, Node.js, MongoDB, Tailwind, Bootstrap, C++, Kotlin**
+- 📫 Reach me at **shuklapoorviswe@gmail.com**
+- ⚡ Fun fact: *I'm nice… unless you touch my food 🍕😝*
 
-- 🔥 Building **scalable MERN & Android applications**  
-- 🚀 Focused on **DSA + Full Stack Development**  
-- 🧠 Strong in **problem solving & backend logic**  
-- 💬 Ask me about **React, Node.js, MongoDB, Tailwind, Bootstrap, C++, Kotlin**  
-- 📫 Reach me at **shuklapoorviswe@gmail.com**  
-- ⚡ Fun fact: *I’m nice… unless you touch my food 🍕😝*  
+<br>
 
----
-
-### 🌐 Connect with Me  
-
+### 🌐 Connect with Me
 <p align="center">
   <a href="https://x.com/poorviii__19" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" height="28" />
@@ -34,12 +32,10 @@
   </a>
 </p>
 
----
+<br>
 
-### 🛠️ Tech Stack  
-
+### 🛠️ Tech Stack
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/>
@@ -51,25 +47,22 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"/>
-
 </p>
 
----
+<br>
 
-### 📊 GitHub Stats  
-
-<div align="center">
-
-<!-- Profile Summary -->
+### 📊 GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=poorviii19&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="180em" src="https://streak-stats.demolab.com?user=poorviii19&theme=tokyonight&hide_border=true"/>
+</p>
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poorviii19&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
----
 
-### 💡 Quote I Live By  
+<br>
 
+### 💡 Quote I Live By
 <p align="center">
-  <i>"Consistency beats talent when talent doesn’t stay consistent."</i>
+  <i>"Consistency beats talent when talent doesn't stay consistent."</i>
 </p>
