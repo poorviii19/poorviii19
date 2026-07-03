@@ -55,4 +55,3 @@
 <p align="center">
   <i>"Consistency beats talent when talent doesn’t stay consistent."</i>
 </p>
- improve this readme for github and show me how it will look as well
