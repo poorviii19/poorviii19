@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Poorvi Shukla</h1>
+<hr>
 <h3 align="center">🚀 Software Engineer | MERN Developer | Android Developer</h3>
+<hr>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=poorviii19&label=Profile%20views&color=7aa2f7&style=flat" />
 </p>
----
+<hr>
 ### 👩‍💻 About Me  
 - 🔥 Building **scalable MERN & Android applications**  
 - 🚀 Focused on **DSA + Full Stack Development**  
@@ -11,7 +13,8 @@
 - 💬 Ask me about **React, Node.js, MongoDB, Tailwind, Bootstrap, C++, Kotlin**  
 - 📫 Reach me at **shuklapoorviswe@gmail.com**  
 - ⚡ Fun fact: *I’m nice… unless you touch my food 🍕😝*  
----
+
+<hr>
 ### 🌐 Connect with Me  
 <p align="center">
   <a href="https://x.com/poorviii__19" target="_blank">
@@ -26,7 +29,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="28"/>
   </a>
 </p>
----
+<hr>
 ### 🛠️ Tech Stack  
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/>
@@ -41,7 +44,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"/>
 </p>
----
+<hr>
 ### 📊 GitHub Stats  
 <div align="center">
 <!-- Profile Summary -->
@@ -50,7 +53,7 @@
   <img height="180em" src="https://streak-stats.demolab.com?user=poorviii19&theme=tokyonight&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poorviii19&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
----
+<hr>
 ### 💡 Quote I Live By  
 <p align="center">
   <i>"Consistency beats talent when talent doesn’t stay consistent."</i>
