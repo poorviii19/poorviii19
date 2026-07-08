@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Poorvi Shukla
 
-**🚀 Software Engineer &nbsp;|&nbsp; MERN Developer &nbsp;|&nbsp; Android Developer**
+**🚀 MERN Stack Developer**
 
 <img src="https://komarev.com/ghpvc/?username=poorviii19&label=Profile%20views&color=7aa2f7&style=flat-square" />
 
@@ -12,10 +12,10 @@
 
 ## 👩‍💻 About Me
 
-- 🔥 Building **scalable MERN & Android applications**
+- 🔥 Building **scalable MERN applications**
 - 🚀 Focused on **DSA + Full Stack Development**
 - 🧠 Strong in **problem solving & backend logic**
-- 💬 Ask me about **React, Node.js, MongoDB, Tailwind, Bootstrap, C++, Kotlin**
+- 💬 Ask me about **React, Node.js, Express.js, MongoDB, Tailwind, Bootstrap, C++, SQL**
 - 📫 Reach me at **shuklapoorviswe@gmail.com**
 - ⚡ Fun fact: *I'm nice… unless you touch my food 🍕😝*
 
@@ -55,8 +55,6 @@
 </p>
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
 <br>
